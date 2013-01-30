@@ -6,5 +6,5 @@ Learn Ruby while creating an interactive AI based application which can chat wit
 Files:
 -----
 
-*intro.rb*- Introduces the concept of variables, input and output.
-*intro_methods.rb* - Introduces the concept of functions, and arguments.
+ * __intro.rb__- Introduces the concept of variables, input and output.
+ * __intro_methods.rb__ - Introduces the concept of functions, and arguments.
