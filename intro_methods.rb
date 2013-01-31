@@ -29,4 +29,6 @@ print_detail("Age", age)
 puts "Confirm to continue[Y/N]:"
 confirm = gets.chomp.downcase
 
-puts "Wohoo !!! Lets begin." if confirm == "y" unless puts "Sorry, some error occured."
+puts "Wohoo !!! Lets begin." if confirm == "y"
+puts "Sorry, some error occured." if confirm == "n"
+
